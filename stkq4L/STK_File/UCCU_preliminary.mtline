@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MovieTimeline>
+  <Info>
+    <SavedBy>Movie Timeline v12.1</SavedBy>
+    <FileFormatVersion>2</FileFormatVersion>
+  </Info>
+  <Project>
+    <FullInterval>
+      <StartTime>0</StartTime>
+      <EndTime>2678400</EndTime>
+    </FullInterval>
+    <ZoomInterval>
+      <StartTime>260725</StartTime>
+      <EndTime>261450</EndTime>
+    </ZoomInterval>
+    <LastTrackNum>1</LastTrackNum>
+  </Project>
+  <Tracks>
+    <Track>
+      <Shot>
+        <Format>WMV</Format>
+        <PathFileName>C:\Users\kozak\Desktop\UCCUpassingTW_3D</PathFileName>
+        <StartFrame>0</StartFrame>
+        <NumDigits>4</NumDigits>
+        <Bitrate>5000</Bitrate>
+        <WMV_Codec />
+        <Interval>
+          <StartTime>260725</StartTime>
+          <EndTime>261450</EndTime>
+        </Interval>
+      </Shot>
+      <Collapsed>true</Collapsed>
+      <Selected>false</Selected>
+      <is2D>false</is2D>
+      <WindowID>1</WindowID>
+      <WindowCustomName />
+      <WindowWidth>1280</WindowWidth>
+      <WindowHeight>720</WindowHeight>
+      <PixelAspect>1</PixelAspect>
+      <PreviewWidth>0</PreviewWidth>
+      <WindowSizeName>HDTV - 720p - 1280x720</WindowSizeName>
+      <AntiAliasing>3</AntiAliasing>
+      <MotionBlur>false</MotionBlur>
+      <OffScreenRender>true</OffScreenRender>
+      <LastSubTrackNum>0</LastSubTrackNum>
+      <SubTracks>
+        <SubtrackTimeStep>
+          <Name>Time step</Name>
+          <Selected>false</Selected>
+          <Keyframes>
+            <Key>
+              <Time>260725</Time>
+              <Selected>false</Selected>
+              <Value>2</Value>
+            </Key>
+          </Keyframes>
+        </SubtrackTimeStep>
+        <SubtrackCamera>
+          <Name>Camera</Name>
+          <Selected>false</Selected>
+          <Keyframes />
+        </SubtrackCamera>
+      </SubTracks>
+    </Track>
+  </Tracks>
+</MovieTimeline>

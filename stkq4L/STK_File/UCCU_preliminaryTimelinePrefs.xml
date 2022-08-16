@@ -1,0 +1,28 @@
+<?xml version = "1.0" standalone = "yes"?>
+<TimelineLine_Prefs STK_version = "12.1.0">
+    <Views Type = "Content">
+        <ContentView Name = "Scenario Availability">
+            <Row ClassName = "Scenario" ComponentName = "AvailabilityIntervals" DisplayName = "UCCU_preliminary AvailabilityIntervals" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "/Application/STK/Scenario/UCCU_preliminary" Type = "IntervalList">
+                <Interval Name = "UCCU_preliminary AvailabilityIntervals" StartTime = "18 Dec 2024 04:00:00.000" StopTime = "18 Jan 2025 04:00:00.000" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals" DisplayName = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/UCCU_preliminary/Satellite/UCCU/Sensor/S-Band;/Application/STK/Scenario/UCCU_preliminary/Facility/S4/Sensor/Sensor3" Type = "IntervalList">
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "18 Dec 2024 04:40:15.098" StopTime = "18 Dec 2024 04:42:22.103" />
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "19 Dec 2024 04:36:59.531" StopTime = "19 Dec 2024 04:38:52.640" />
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "20 Dec 2024 04:33:47.983" StopTime = "20 Dec 2024 04:35:19.022" />
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "21 Dec 2024 04:30:45.343" StopTime = "21 Dec 2024 04:31:36.358" />
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "22 Dec 2024 16:38:31.640" StopTime = "22 Dec 2024 16:39:27.640" />
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "23 Dec 2024 16:34:50.304" StopTime = "23 Dec 2024 16:36:23.689" />
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "24 Dec 2024 16:31:17.135" StopTime = "24 Dec 2024 16:33:11.699" />
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "25 Dec 2024 16:27:47.952" StopTime = "25 Dec 2024 16:29:55.864" />
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "26 Dec 2024 16:24:21.584" StopTime = "26 Dec 2024 16:26:37.354" />
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "27 Dec 2024 16:20:57.546" StopTime = "27 Dec 2024 16:23:16.650" />
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "28 Dec 2024 16:17:35.661" StopTime = "28 Dec 2024 16:19:53.938" />
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "29 Dec 2024 16:14:15.957" StopTime = "29 Dec 2024 16:16:29.192" />
+                <Interval Name = "Satellite-UCCU-Sensor-S-Band-To-Facility-S4-Sensor-Sensor3 AccessIntervals" StartTime = "30 Dec 2024 16:10:58.680" StopTime = "30 Dec 2024 16:13:02.157" />
+            </Row>
+        </ContentView>
+    </Views>
+    <Views Type = "Time">
+        <TimeView FullViewRulerStartTime = "0.000000" FullViewRulerStopTime = "0.000000" GlobalIntervalComp = "AnalysisInterval" GlobalIntervalCompPath = "/Application/STK/Scenario/UCCU_preliminary" GlobalStartOffset = "0.000000" GlobalStartTime = "18 Dec 2024 04:00:00.000" GlobalStopOffset = "0.000000" GlobalStopTime = "18 Jan 2025 04:00:00.000" MaxFullViewTime = "0.000000" MinFullViewTime = "0.000000" Name = "Scenario Analysis Period" ViewportStartTime = "0.000000" ViewportStopTime = "0.000000" />
+    </Views>
+</TimelineLine_Prefs>
