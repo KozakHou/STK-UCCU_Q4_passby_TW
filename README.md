@@ -6,5 +6,5 @@ Just click stkq4L inside to see more detail
 ```
 @KozakHou, email:kozak20010716@g.ncu.edu.tw
            Tel : +886-905804898
-           Orgnization : National Central University
+           Affiliation : National Central University
 ```
